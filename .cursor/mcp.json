@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "H5-game-upload": {
+            "command": "npx",
+            "args": [
+                "@taptap/tds-mcp-server"
+            ]
+        }
+    }
+}
